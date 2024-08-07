@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiling Ding</h1>
-<h3 align="center">A Undergraduate Student Passionate About Data Science/Analysis</h3>
+<h3 align="center">A Graduate Student Passionate About Data Science/Analysis</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.gif?cid=6c09b9528xhf3c7dqfo1ad4e8eeorkk4vlw4113ervkfbg00&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
