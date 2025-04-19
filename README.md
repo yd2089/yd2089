@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.gif?cid=6c09b9528xhf3c7dqfo1ad4e8eeorkk4vlw4113ervkfbg00&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-- 🌱 I’m currently learning **Data Management and Analysis**
+- 🌱 I’m currently learning **Natural Language Processing** and **Machine Learning II**
 
 - 📫 How to reach me **ylding0517@gmail.com**
 
